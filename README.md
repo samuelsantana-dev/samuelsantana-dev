@@ -6,11 +6,11 @@
 ## Principais Projetos
 <p>Clique nas imagens para o projeto </p> 
 
-<a href="https://circuitodavisao.com/auth/login" target="_blank"><img src="https://img.icons8.com/3d-fluency/256/chatbot.png" width="50" height="50" target="_blank">ChatBoot</a>
+<a href="https://circuitodavisao.com/auth/login" target="_blank"><img src="https://img.icons8.com/3d-fluency/256/chatbot.png" width="50" height="50" target="_blank"></a>
 
-<a href="https://github.com/Samuel-Santana109/primeVideo" target="_blank"><img src="https://www.baixesoft.com/wp-content/uploads/2022/06/icone-do-prime-video-baixesoft.png" width="50" height="50" target="_blank">Prime Video </a>
+<a href="https://github.com/Samuel-Santana109/primeVideo" target="_blank"><img src="https://www.baixesoft.com/wp-content/uploads/2022/06/icone-do-prime-video-baixesoft.png" width="50" height="50" target="_blank"></a>
   
- <a href="https://github.com/Samuel-Santana109/portifolio" target="_blank"><img src="https://img.icons8.com/material-sharp/256/portfolio.png" width="50" height="50" target="_blank">Portifolio </a>
+ <a href="https://github.com/Samuel-Santana109/portifolio" target="_blank"><img src="https://img.icons8.com/material-sharp/256/portfolio.png" width="50" height="50" target="_blank"> </a>
 
 
 
