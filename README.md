@@ -5,13 +5,12 @@
 
 ## Principais Projetos
 <div>
-<p>Clique nas imagens para o projeto </p> 
+<p>Clique nas imagens para o projeto esses são 4 projetos bases que demonstram um pouco do meu conhecimento</p>
 <a href="https://circuitodavisao.com/auth/login" target="_blank"><img src="https://img.icons8.com/3d-fluency/256/chatbot.png" width="50" height="50" target="_blank"></a>
 <a href="https://github.com/Samuel-Santana109/primeVideo" target="_blank"><img src="https://www.baixesoft.com/wp-content/uploads/2022/06/icone-do-prime-video-baixesoft.png" width="50" height="50" target="_blank"></a>
  <a href="https://github.com/Samuel-Santana109/portifolio" target="_blank"><img src="https://img.icons8.com/material-sharp/256/portfolio.png" width="50" height="50" target="_blank"> </a>
+ <a href=https://github.com/Samuel-Santana109/projeto-cordell" target="_blank"><img src="https://www.shutterstock.com/image-vector/illustration-brazilian-couple-harvesting-sugar-600w-2128787906.jpg" width="50" height="50" target="_blank"> </a>
 </div>
-
-
 
 ## Objetivos
 <p>Aprender uma nova linguagem de programação</p>
