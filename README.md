@@ -13,9 +13,9 @@
 </div>
 
 ## Objetivos
-<p>Aprender uma nova linguagem de programação</p>
+<p>Ter novas experiencias como desenvolvedor web</p>
 <p>Construir minha propria empresa</p>
-<p>Construir projetos em grandes empresas</p>
+<p>Construir grandes projetos</p>
 
 ## Habilidades
 <div style="display: inline_block"><br>
