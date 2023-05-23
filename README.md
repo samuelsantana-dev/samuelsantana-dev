@@ -10,6 +10,7 @@
 <a href="https://github.com/Samuel-Santana109/primeVideo" target="_blank"><img src="https://www.baixesoft.com/wp-content/uploads/2022/06/icone-do-prime-video-baixesoft.png" width="50" height="50" target="_blank"></a>
  <a href="https://github.com/Samuel-Santana109/portifolio" target="_blank"><img src="https://img.icons8.com/material-sharp/256/portfolio.png" width="50" height="50" target="_blank"> </a>
  <a href="https://github.com/Samuel-Santana109/projeto-cordell" target="_blank"><img src="https://www.shutterstock.com/image-vector/illustration-brazilian-couple-harvesting-sugar-600w-2128787906.jpg" width="50" height="50" target="_blank"> </a>
+  <a href="https://github.com/Samuel-Santana109/leading_page" target="_blank"><img src="https://diagrams.mingrammer.com/img/resources/programming/framework/react.png" width="50" height="50" target="_blank"> </a>
 </div>
 
 ## Objetivos
