@@ -8,11 +8,11 @@
 <p>Clique nas imagens para o projeto esses são 5 projetos bases que demonstram um pouco do meu conhecimento</p>
   <h3> ChatBoots e Portifolio</h3>
 <a href="https://circuitodavisao.com/auth/login" target="_blank"><img src="https://img.icons8.com/3d-fluency/256/chatbot.png" width="50" height="50" target="_blank"></a>
- <a href="https://github.com/Samuel-Santana109/portifolio" target="_blank"><img src="https://img.icons8.com/material-sharp/256/portfolio.png" width="50" height="50" target="_blank"> </a>
   <br>
- <h3> HTML 5 e CSS 3 </h3>
+ <h3> HTML 5 e CSS 3 e Bootstrap 5 </h3>
 <a href="https://github.com/Samuel-Santana109/primeVideo" target="_blank"><img src="https://www.baixesoft.com/wp-content/uploads/2022/06/icone-do-prime-video-baixesoft.png" width="50" height="50" target="_blank"></a>
  <a href="https://github.com/Samuel-Santana109/projeto-cordell" target="_blank"><img src="https://www.shutterstock.com/image-vector/illustration-brazilian-couple-harvesting-sugar-600w-2128787906.jpg" width="50" height="50" target="_blank"> </a>
+  <a href="https://github.com/Samuel-Santana109/portifolio" target="_blank"><img src="https://img.icons8.com/material-sharp/256/portfolio.png" width="50" height="50" target="_blank"> </a>
  <br>
   <h3> React js </h3>
  <a href="https://github.com/Samuel-Santana109/leading_page" target="_blank"><img src="https://diagrams.mingrammer.com/img/resources/programming/framework/react.png" width="50" height="50" target="_blank"> </a>
