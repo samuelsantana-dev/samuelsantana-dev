@@ -3,7 +3,7 @@
 - 📚 Cursando Analise e Desenvolvimento de Sistemas
 - 💡 Sou apaixonado por tecnologia e desenvolvimento de sistemas. Procuro desafios sempre! 
 
-## Projetos Bases
+## Exemplo Projetos 
 <div>
 <p>Clique nas imagens para o projeto esses são  projetos bases que demonstram um pouco do meu conhecimento</p>
   <h3> Javascript / React js / Kotlin  </h3>
