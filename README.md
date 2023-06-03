@@ -4,18 +4,20 @@
 - 💡 Sou apaixonado por tecnologia e desenvolvimento de sistemas. Procuro desafios sempre! 
 
 ## Principais Projetos
-<div  style="display: inline_block">
+<div>
 <p>Clique nas imagens para o projeto esses são  projetos bases que demonstram um pouco do meu conhecimento</p>
   <h3> Javascript / React js / Kotlin  </h3>
-    <a href="https://github.com/Samuel-Santana109/leading_page" target="_blank">
+    <a href="https://github.com/Samuel-Santana109/estudos/tree/master/Javascript" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" target="_blank">     </a>
-  
    <a href="https://github.com/Samuel-Santana109/leading_page" target="_blank">
      <img src="https://diagrams.mingrammer.com/img/resources/programming/framework/react.png" width="50" height="50" target="_blank">
    </a>
-  
     <a href="https://github.com/Samuel-Santana109/Investimento_android" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="50" height="50" target="_blank">     </a>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="50" height="50" target="_blank">
+   </a>
+  
+
+  </a>
   
  <h3>  ChatBoots / Html 5 / Css 3 / Bootstrap 5  </h3>
   <a href="https://circuitodavisao.com/auth/login" target="_blank">
