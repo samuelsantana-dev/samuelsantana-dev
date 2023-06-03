@@ -3,7 +3,7 @@
 - 📚 Cursando Analise e Desenvolvimento de Sistemas
 - 💡 Sou apaixonado por tecnologia e desenvolvimento de sistemas. Procuro desafios sempre! 
 
-## Principais Projetos
+## Projetos Bases
 <div>
 <p>Clique nas imagens para o projeto esses são  projetos bases que demonstram um pouco do meu conhecimento</p>
   <h3> Javascript / React js / Kotlin  </h3>
@@ -16,16 +16,9 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="50" height="50" target="_blank">
    </a>
   
-
-  </a>
-  
- <h3>  ChatBoots / Html 5 / Css 3 / Bootstrap 5  </h3>
+ <h3>  ChatBoots / Html 5 e Css 3 / Bootstrap 5  </h3>
   <a href="https://circuitodavisao.com/auth/login" target="_blank">
     <img src="https://img.icons8.com/3d-fluency/256/chatbot.png" width="50" height="50" target="_blank">
-  </a>
-
-<a href="https://github.com/Samuel-Santana109/primeVideo" target="_blank">
-  <img src="https://www.baixesoft.com/wp-content/uploads/2022/06/icone-do-prime-video-baixesoft.png" width="50" height="50" target="_blank">
   </a>
   
  <a href="https://github.com/Samuel-Santana109/projeto-cordell" target="_blank">
