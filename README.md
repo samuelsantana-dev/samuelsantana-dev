@@ -9,7 +9,7 @@
   <h3> Javascript / React js / Kotlin  </h3>
     <a href="https://github.com/Samuel-Santana109/estudos/tree/master/Javascript" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" target="_blank">     </a>
-   <a href="https://github.com/Samuel-Santana109/estudos/tree/master/react/rocket_seat/Estudos%20react%20roketSeat" target="_blank">
+   <a href="https://github.com/Samuel-Santana109/blog_react_ts" target="_blank">
      <img src="https://diagrams.mingrammer.com/img/resources/programming/framework/react.png" width="50" height="50" target="_blank">
   </a>
     <a href="https://github.com/Samuel-Santana109/Investimento_android" target="_blank">
