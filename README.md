@@ -1,7 +1,8 @@
 # Olá! Me chamo Samuel Santana! 👋
 - 👨‍💻 Hoje tabalho como estagiario no banco BRB 
 - 📚 Cursando Analise e Desenvolvimento de Sistemas
-- 💡 Sou apaixonado por tecnologia e desenvolvimento de sistemas. Procuro desafios sempre! 
+- 💡 Sou apaixonado por tecnologia e desenvolvimento de sistemas. Procuro desafios sempre!
+- Desenvolvedor Front-End 
 
 ## Exemplo Projetos 
 <div>
