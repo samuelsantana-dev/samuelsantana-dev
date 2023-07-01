@@ -15,6 +15,9 @@
     <a href="https://github.com/Samuel-Santana109/Investimento_android" target="_blank">
      <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="50" height="50" target="_blank">
    </a>
+  <a href="https://github.com/Samuel-Santana109/portifolio_react/tree/master" target="_blank">
+    <img src="https://img.icons8.com/material-sharp/256/portfolio.png" width="50" height="50" target="_blank">
+  </a>
   
  <h3>  ChatBoots / Html 5 e Css 3 / Bootstrap 5  </h3>
   <a href="https://circuitodavisao.com/auth/login" target="_blank">
@@ -25,9 +28,7 @@
    <img src="https://www.shutterstock.com/image-vector/illustration-brazilian-couple-harvesting-sugar-600w-2128787906.jpg" width="50" height="50"     target="_blank">
   </a>
   
-  <a href="https://github.com/Samuel-Santana109/portifolio/tree/master" target="_blank">
-    <img src="https://img.icons8.com/material-sharp/256/portfolio.png" width="50" height="50" target="_blank">
-  </a>
+
  <br>
 </div>
 
