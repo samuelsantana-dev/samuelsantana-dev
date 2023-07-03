@@ -10,11 +10,7 @@
   <a href="https://github.com/Samuel-Santana109/portifolio_react/tree/master" target="_blank">
     <img src="https://img.icons8.com/material-sharp/256/portfolio.png" width="50" height="50" target="_blank">
   </a>
-  
- <h3>  ChatBoots </h3>
-  <a href="https://circuitodavisao.com/auth/login" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/256/chatbot.png" width="50" height="50" target="_blank">
-  </a>
+
 </div>
 
 ## Objetivos
