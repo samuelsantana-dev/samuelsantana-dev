@@ -2,7 +2,12 @@
 - 👨‍💻 Hoje tabalho como estagiario no banco BRB 
 - 📚 Cursando Analise e Desenvolvimento de Sistemas
 - 💡 Sou apaixonado por tecnologia e desenvolvimento de sistemas. Procuro desafios sempre!
-- Desenvolvedor Front-End 
+- Desenvolvedor Front-End
+
+## Experiencia
+- Estagio como desenvolvedor - DNA System
+- Desenvolvedor Free lancer
+- Desenvolvedor Voluntario - Sara Tech 
 
 ## Exemplo Projetos 
 <div>
@@ -10,7 +15,6 @@
   <a href="https://github.com/Samuel-Santana109/portifolio_react/tree/master" target="_blank">
     <img src="https://img.icons8.com/material-sharp/256/portfolio.png" width="50" height="50" target="_blank">
   </a>
-
 </div>
 
 ## Objetivos
