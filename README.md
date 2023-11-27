@@ -1,6 +1,6 @@
 # Olá! Me chamo Samuel Santana! 👋
 - 👨‍💻 Atualmente tabalho como Desenvolvedor Free Lancer
-- 📚 Cursando Analise e Desenvolvimento de Sistemas
+- 📚 Formado em analise e Desenvolvimento de Sistemas
 - 💡 Sou apaixonado por tecnologia e desenvolvimento de sistemas. Procuro desafios sempre!
 - Desenvolvedor Front-End
 
