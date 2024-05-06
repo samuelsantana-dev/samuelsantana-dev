@@ -1,11 +1,10 @@
 # Olá! Me chamo Samuel Santana! 👋
-- 👨‍💻 Atualmente tabalho como Desenvolvedor Free Lancer
+- 👨‍💻 Atualmente tabalho como Desenvolvedor Junior full stack
 - 📚 Formado em analise e Desenvolvimento de Sistemas
 - 💡 Sou apaixonado por tecnologia e desenvolvimento de sistemas. Procuro desafios sempre!
-- Desenvolvedor Front-End
 
 ## Experiencia
-- Estagio como desenvolvedor - DNA System
+- Desenvolvedor junior full stack - PipeTech 
 - Desenvolvedor Free lancer
 - Desenvolvedor Voluntario - Sara Tech 
 
