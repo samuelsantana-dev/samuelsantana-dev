@@ -6,6 +6,7 @@
 ## Experiencia
 - Desenvolvedor junior full stack - PipeTech 
 - Desenvolvedor Free lancer
+- Desenvolvedor full stack - Tech World
 - Desenvolvedor Voluntario - Sara Tech 
 
 ## Exemplo Projetos 
