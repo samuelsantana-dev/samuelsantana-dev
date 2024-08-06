@@ -6,7 +6,7 @@
 ## Experiencia
 - Desenvolvedor Full stack - PipeTech 
 - Desenvolvedor Full Stack - Free lancer 
-- Desenvolvedor Front End - Tech World
+- Desenvolvedor Full End - Tech World
 - Desenvolvedor Voluntario - Sara Tech 
 
 ## Exemplo Projetos 
