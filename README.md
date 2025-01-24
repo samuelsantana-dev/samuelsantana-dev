@@ -12,7 +12,7 @@
 ## Exemplo Projetos 
 <div>
 <p>Aqui esta o link para o meu portifolio onde estao todos os meus projetos explicados um por um</p>
-  <a href="https://github.com/Samuel-Santana109/portifolio_react/tree/master" target="_blank">
+  <a href="https://github.com/samuelsantana-dev/portifolio_react/tree/master" target="_blank">
     <img src="https://img.icons8.com/material-sharp/256/portfolio.png" width="50" height="50" target="_blank">
   </a>
 </div>
