@@ -3,14 +3,23 @@
 Sou Desenvolvedor Full Stack com foco em **JavaScript/TypeScript** e tecnologias **React.js / Node.js**. Formado em **Análise e Desenvolvimento de Sistemas**, possuo experiência em desenvolvimento web completo, com forte atuação tanto no front-end quanto no back-end. Apaixonado por tecnologia e por criar soluções inovadoras, atuo em times ágeis utilizando boas práticas de desenvolvimento, versionamento e integração contínua.
 
 🎯 Atualmente estou me aprofundando em:
-- React.js, Next.js, Vue.js
-- TypeScript, Node.js, Express/Koa
-- UI/UX com Design Systems
+
+### 👨‍💻 Front-end (foco principal)
+- React.js, Next.js e Vue.js
+- TypeScript e JavaScript moderno (ES6+)
+- UI/UX com Design Systems e boas práticas de acessibilidade
+- Gerenciamento de estado com Redux, Zustand, Jotai ou Context API
+- Integrações com APIs REST e GraphQL
+- Estilização com Tailwind CSS, Styled Components e CSS Modules
+- Testes de interface e componentização reutilizável
+
+### ⚙️ Back-end (como apoio ao front)
+- Node.js com Express para criação de APIs
 - Integrações REST e GraphQL
-- Estado com Redux, Zustand, Jotai ou Context API
-- Testes, Git e práticas de CI/CD
 - Banco de dados: MySQL, PostgreSQL e MongoDB
-- Metodologias Ágeis: Scrum / Kanban
+- Práticas de versionamento (Git), CI/CD e testes automatizados
+- Metodologias ágeis: Scrum e Kanban
+
 
 ## 💼 Experiência
 
