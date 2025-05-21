@@ -23,10 +23,11 @@ Sou Desenvolvedor Full Stack com foco em **JavaScript/TypeScript** e tecnologias
 
 ## 💼 Experiência
 
-- 🏢 **Desenvolvedor Full Stack** – PipeTech  
+- 🏢 **Desenvolvedor Full-Stack React.js e Node.js** – PipeTech
+- 💼 **Desenvolvedor Front-End Vue.js** - Lusa tecnologia
 - 💻 **Desenvolvedor Freelancer** – Projetos sob demanda personalizados  
-- 🌐 **Desenvolvedor Front-End** – Tech World  
-- 🤝 **Desenvolvedor Voluntário** – Sara Tech  
+- 🌐 **Desenvolvedor Full-Stack React.js e Node.js** – Tech World  
+- 🤝 **Desenvolvedor Full-Stack React.js e Node.js** – Sara Tech  
 
 ## 🚀 Portfólio
 
