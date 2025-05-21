@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Samuel Santana
+# 👋 Olá! Eu sou Samuel Santana Desenvolvedor Front-End
 
 Olá! Sou Samuel Santana, um Desenvolvedor FrontEnd javascript React, formado em Análise e Desenvolvimento de Sistemas, tenho experiência como desenvolvedor, atuando no desenvolvimento de sistemas, capacidade de negociar demandas e soluções diretamente com minha liderança e cliente. 
 
