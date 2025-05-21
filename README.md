@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Samuel Santana
 
-Sou Desenvolvedor Full Stack com foco em **JavaScript/TypeScript** e tecnologias **React.js / Node.js**. Formado em **Análise e Desenvolvimento de Sistemas**, possuo experiência em desenvolvimento web completo, com forte atuação tanto no front-end quanto no back-end. Apaixonado por tecnologia e por criar soluções inovadoras, atuo em times ágeis utilizando boas práticas de desenvolvimento, versionamento e integração contínua.
+Olá! Sou Samuel Santana, um Desenvolvedor FrontEnd javascript React, formado em Análise e Desenvolvimento de Sistemas, tenho experiência como desenvolvedor, atuando no desenvolvimento de sistemas, capacidade de negociar demandas e soluções diretamente com minha liderança e cliente. 
 
 🎯 Atualmente estou me aprofundando em:
 
