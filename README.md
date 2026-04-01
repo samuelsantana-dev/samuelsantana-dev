@@ -22,12 +22,11 @@ Olá! Sou Samuel Santana, um Desenvolvedor FrontEnd javascript React, formado em
 
 
 ## 💼 Experiência
-
+- 🤝 **Desenvolvedor Full-Stack React.js, Vue.js e Node.js** – Space  
 - 🏢 **Desenvolvedor Full-Stack React.js e Node.js** – PipeTech
 - 💼 **Desenvolvedor Front-End Vue.js** - Lusa tecnologia
 - 💻 **Desenvolvedor Freelancer** – Projetos sob demanda personalizados  
 - 🌐 **Desenvolvedor Full-Stack React.js e Node.js** – Tech World  
-- 🤝 **Desenvolvedor Full-Stack React.js e Node.js** – Sara Tech  
 
 ## 🚀 Portfólio
 
