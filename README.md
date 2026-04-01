@@ -32,8 +32,8 @@ Olá! Sou Samuel Santana, um Desenvolvedor FrontEnd javascript React, formado em
 ## 🚀 Portfólio
 
 Confira meus projetos com descrições completas:  
-👉 [Portfólio](https://samuelsantana-dev.github.io/portifolio_react/)  
-[![Portfólio](https://img.icons8.com/material-sharp/256/portfolio.png)](https://samuelsantana-dev.github.io/portifolio_react/)
+👉 [Portfólio]([https://samuelsantana-dev.github.io/portifolio_react/](https://samuel-fullstack.mundosucesso.com/))  
+[![Portfólio](https://img.icons8.com/material-sharp/256/portfolio.png)]([https://samuelsantana-dev.github.io/portifolio_react/](https://samuel-fullstack.mundosucesso.com/))
 
 ## 🔧 Habilidades
 
